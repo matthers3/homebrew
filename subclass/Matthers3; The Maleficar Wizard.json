@@ -57,7 +57,7 @@
                         "In case of running out of hit dies or not being willing to spend more, you may spend health points equal to 5 times the difference between your roll’s result and your goal. The number of health points spent count as damage to maintain concentration effects. You are still able to use this feature if no hit dies are available, taking your roll’s result as 0.",
                         "If the goal is not reached on any way, the result of all hit dies is lost, the spell is not cast, and you lose your action, bonus action or reaction used to cast the spell. In case of spending more health points than your current health, the spell casts, but you die immediately right after.",
                         "You may use this feature up to a number of times equal to half your intelligence modifier rounded up (minimum of 1), regaining all expended uses when finishing a short or long rest.",
-                        "Starting at 14th level, you may cast a spell of 6th and 7th level using this feature. Doing so requires adding four times the spell level when rolling hit dies instead of just two. You cannot attempt to cast a 6th or 7th level spell using this feature again until you finish a long rest."
+                        "Starting at 14th level, you may cast 6th and 7th level spells using this feature. Doing so requires adding four times the spell level when rolling hit dies instead of just two. You cannot attempt to cast a 6th or 7th level spell using this feature again until you finish a long rest."
                     ]
                 }
             ]
